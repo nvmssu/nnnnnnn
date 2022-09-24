@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\tong hop framework"
+		},
+		{
+			"path": "..\\frameworklaravel 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.NoBrowser": true,
+		"liveServer.settings.fullReload": false
+	}
+}
